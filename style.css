@@ -1,0 +1,15 @@
+/*style.css
+ *Holds all the css framework styling
+ *applicable on all pages of site
+ *Written by Alyssa Christopher
+ *9-18-2017
+ */
+
+/*for header box on top of site
+ *Other styles will be more specific with their own box*/
+.header{
+     background-color: #191919;
+     width: 50%;
+     position: fixed;
+
+}
