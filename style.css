@@ -8,8 +8,22 @@
 /*for header box on top of site
  *Other styles will be more specific with their own box*/
 .header{
-     background-color: #191919;
+     background-color: #a5c6e8;
+     height: 25%;
      width: 50%;
      position: fixed;
+     margin: 100px;
+     text-align: right;
+}
 
+.h1{
+  font-family: 'Playfair Display SC', serif;
+  padding-top: 100px;
+  text-align: inherit;
+  color: #fff;
+}
+
+.mainblock{
+     background-color: #bababa;
+     width: 75%;
 }
