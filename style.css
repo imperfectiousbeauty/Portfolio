@@ -8,22 +8,37 @@
 /*for header box on top of site
  *Other styles will be more specific with their own box*/
 .header{
-     background-color: #a5c6e8;
-     height: 25%;
-     width: 50%;
-     position: fixed;
-     margin: 100px;
-     text-align: right;
+  background-color: #a5c6e8;
+  height: 25%;
+  width: 66%;
+  position: fixed;
+  margin-top: 5%;
+  margin-right: 10%;
+  text-align: right;
+  border-radius: 10px;
+}
+
+.header_text{
+  position: relative;
+  padding-right: 2%;
 }
 
 .h1{
   font-family: 'Playfair Display SC', serif;
-  padding-top: 100px;
   text-align: inherit;
+  padding-right: 2%;
+  font-size: 24px;
+  color: #fff;
+}
+
+.h2{
+  font-family: 'Playfair Display SC', serif;
+  text-align: inherit;
+  font-size: 20px;
   color: #fff;
 }
 
 .mainblock{
-     background-color: #bababa;
-     width: 75%;
+  background-color: #bababa;
+  width: 75%;
 }
