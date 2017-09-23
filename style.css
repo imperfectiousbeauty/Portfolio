@@ -44,5 +44,17 @@
 
 .mainblock{
   background-color: #bababa;
-  width: 75%;
+  position: relative;
+  border-radius: 10px;
+  margin-top: 2%;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding: 3%;
+}
+
+.side_bar{
+  background-color: #fff;
+  position: relative;
+  border-radius: inherit;
+  padding: inherit;
 }
