@@ -10,17 +10,21 @@
 .header{
   background-color: #a5c6e8;
   height: 25%;
-  width: 66%;
-  position: fixed;
+  position: relative;
   margin-top: 5%;
+  margin-left: 10%;
   margin-right: 10%;
+  padding-top: 8%;
+  padding-bottom: 1%;
   text-align: right;
   border-radius: 10px;
+  vertical-align: middle;
 }
 
 .header_text{
   position: relative;
   padding-right: 2%;
+  padding-bottom: 2%;
 }
 
 .h1{
